@@ -1,0 +1,12 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": "BOT_PREFİX",
+  "guildID": "SUNUCU_ID",
+  "botOwner": "OWNER_ID",
+  "clientPresence": "BOT_DURUM",
+  "clientFooter": "BOT_FOOTER",
+  "MongoURL": "MONGO_URL",
+  "voiceChannel": "BOT_SES_KANAL",
+  "levelSystem": true,
+  "levelChannel": "LEVEL_LOG_KANAL"
+}
